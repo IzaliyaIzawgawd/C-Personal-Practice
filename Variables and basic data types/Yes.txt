@@ -1,0 +1,2 @@
+cd 'Variables and basic data types'
+g++ Variables_and_basic_data_types.ccp -o Variables_and_basic_data_types.exe
