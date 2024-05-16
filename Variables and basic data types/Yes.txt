@@ -1,2 +1,2 @@
 cd 'Variables and basic data types'
-g++ Variables.ccp -o Variables.exe
+g++ Variables.cpp -o Variables.exe
