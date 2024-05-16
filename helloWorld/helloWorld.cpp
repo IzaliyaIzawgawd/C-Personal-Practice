@@ -5,5 +5,6 @@
 int main() {
 	// std means standard, cout means character output, << means output or left shift operator,
 	std::cout << "Why am I stuck here"; // this will print the text to the console.
+	std::cout << "Just to suffer";
 		return 0; // return 0 means the program has executed successfully.
 }
