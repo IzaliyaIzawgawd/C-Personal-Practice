@@ -2,10 +2,11 @@
 
 int main() { //integer main function
 	
-	int x; // declaration
-	x = 5; 
+	int x = 5; // declaration
+	int y = 6;
 
-	std::cout << x; // output
+	std::cout << x << '\n'; // output while \n is used to move to the next line
+	std::cout << y << '\n';
 
 	return 0;
 }
