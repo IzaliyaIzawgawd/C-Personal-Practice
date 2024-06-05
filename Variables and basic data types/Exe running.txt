@@ -1,3 +1,0 @@
-Suggestion [3,General]: The command helloWorld.exe was not found, but does exist in the current location. Windows PowerShell does not load commands from the current location by default. If you trust this command, instead type: ".\helloWorld.exe".
-g++ helloWorld.cpp -o helloWorld.exe // Compile the program
-.\helloWorld.exe // Run the program
