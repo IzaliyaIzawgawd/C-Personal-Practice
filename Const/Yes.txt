@@ -1,0 +1,3 @@
+cd 'Const'
+g++ Const.cpp -o Const.exe
+.\Const.exe
