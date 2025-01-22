@@ -45,8 +45,14 @@ int main() { //integer main function
 
 	//string, objects that represent a sequence of texts
 	std::string name = "Izaliya Izawgawd";
+	std::string day = "Wednesday";
+	std::string food = "Ham";
+	std::string address = "Nopers";
 
 	std::cout << "Name = " << name << '\n';
+	std::cout << "Day = " << day << '\n';
+	std::cout << "Favorite Food = " << food << '\n';
+	std::cout << "Address = " << address << '\n';
 
 	return 0;
 }
