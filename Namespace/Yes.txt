@@ -1,0 +1,3 @@
+cd 'Namespace'
+g++ Namespace.cpp -o Namespace.exe
+.\Namespace.exe
