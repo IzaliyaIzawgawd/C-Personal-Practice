@@ -14,7 +14,7 @@ int main() { //integer main function
 	int year = 2025;
 	int days = 201.5;
 
-	std::cout << "age = "; << age << '\n';
+	std::cout << "age = " << age << '\n';
 	std::cout << "year = " << year << "\n';
 	std::cout << "days = " << days << '\n';
 
