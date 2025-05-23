@@ -1,0 +1,3 @@
+cd 'Arithmetic operators'
+g++ Arithmetic.cpp -o Arithmetic.exe
+.\Arithmetic.exe
