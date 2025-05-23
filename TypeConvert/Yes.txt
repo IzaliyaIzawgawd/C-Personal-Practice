@@ -1,0 +1,3 @@
+cd 'TypeConvert'
+g++ TypeConvert.cpp -o TypeConvert.exe
+.\TypeConvert.exe
