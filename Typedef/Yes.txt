@@ -1,3 +1,4 @@
 cd 'Typedef'
 g++ Typedef.cpp -o Typedef.exe
 .\Typedef.exe
+refreshenv to reset cmd

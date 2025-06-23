@@ -1,0 +1,4 @@
+cd 'If_Statements'
+g++ If_Statements.cpp -o If_Statements.exe
+.\If_Statements.exe
+refreshenv to reset cmd

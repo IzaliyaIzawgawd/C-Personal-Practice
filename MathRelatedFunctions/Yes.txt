@@ -1,3 +1,4 @@
 cd 'MathRelatedFunctions'
 g++ MathRelatedFunctions.cpp -o MathRelatedFunctions.exe
 .\MathRelatedFunctions.exe
+refreshenv to reset cmd
