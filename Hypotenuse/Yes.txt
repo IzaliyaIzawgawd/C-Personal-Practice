@@ -1,0 +1,3 @@
+cd 'Hypotenuse'
+g++ Hypotenuse.cpp -o Hypotenuse.exe
+.\Hypotenuse.exe
