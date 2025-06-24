@@ -1,3 +1,4 @@
 cd 'UserInput'
 g++ UserInput.cpp -o UserInput.exe
 .\UserInput.exe
+refreshenv to reset cmd

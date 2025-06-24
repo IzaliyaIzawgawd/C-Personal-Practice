@@ -1,3 +1,4 @@
 cd 'Variables and basic data types'
 g++ Variables.cpp -o Variables.exe
 .\Variables.exe
+refreshenv to reset cmd
