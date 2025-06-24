@@ -45,7 +45,10 @@ int main() {
 	case 12:
 		std::cout << "It is December" << '\n';
 		break;
+	default:
+		std::cout << "Invalid month!" << '\n';
 	}
+	
 
 	// if (month == 1) {
 	//	std::cout << "it is January" << '\n';
