@@ -1,0 +1,4 @@
+cd 'Switches'
+g++ Switches.cpp -o Switches.exe
+.\Switches.exe
+refreshenv to reset cmd
