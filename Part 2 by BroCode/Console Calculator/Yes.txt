@@ -1,0 +1,4 @@
+cd 'Console Calculator'
+g++ ConsoleCalculator.cpp -o ConsoleCalculator.exe
+.\ConsoleCalculator.exe
+refreshenv to reset cmd
