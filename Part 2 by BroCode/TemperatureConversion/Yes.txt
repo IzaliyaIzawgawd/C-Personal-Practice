@@ -1,0 +1,4 @@
+cd 'Ternary Operator'
+g++ TernaryOperator.cpp -o TernaryOperator.exe
+.\TernaryOperator.exe
+refreshenv to reset cmd

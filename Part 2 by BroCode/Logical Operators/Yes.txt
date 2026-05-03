@@ -1,4 +1,4 @@
-cd 'Logical Operators'
-g++ LogicalOperators.cpp -o LogicalOperators.exe
-.\LogicalOperators.exe
+cd 'TemperatureConversion'
+g++ TemperatureConversion.cpp -o TemperatureConversion.exe
+.\TemperatureConversion.exe
 refreshenv to reset cmd
