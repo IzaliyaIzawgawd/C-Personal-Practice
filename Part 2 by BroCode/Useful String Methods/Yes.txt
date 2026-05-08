@@ -1,0 +1,4 @@
+cd 'Useful String Methods'
+g++ UsefulStringMethods.cpp -o UsefulStringMethods.exe
+.\UsefulStringMethods.exe
+refreshenv to reset cmd
