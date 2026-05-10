@@ -1,0 +1,4 @@
+cd 'While loops'
+g++ WhileLoops.cpp -o WhileLoops.exe
+.\WhileLoops.exe
+refreshenv to reset cmd
